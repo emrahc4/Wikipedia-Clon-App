@@ -20,3 +20,7 @@
 
 LinkedIn:
 https://www.linkedin.com/in/emrah-%C3%A7ak%C4%B1r-052b422a1/
+
+
+Canlı Demo :
+https://wikipedia-clon-app.netlify.app/
